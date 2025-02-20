@@ -1,4 +1,4 @@
-venv/
+/venv
 config.yaml
-build/
+/build
 .env
