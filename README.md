@@ -48,6 +48,7 @@ pip install -r requirements.txt
 ### Fetch and Ingest Data
 
 ``` bash
+export PYTHONPATH=$(pwd)
 python3 -m bitbucket_ocean.main
 ```
 
