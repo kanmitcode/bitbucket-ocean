@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: bitbucket-ocean
+Version: 0.1.0
+Summary: Bitbucket integration for Port's Ocean framework
+Author-email: Oyekanmi Owolabi <kanmitowolabi@gmail.com>
+Requires-Dist: port-ocean[cli]
+Requires-Dist: aiohttp
+Requires-Dist: pydantic
+Requires-Dist: asyncio
+Requires-Dist: pyyaml
+Requires-Dist: pytest
